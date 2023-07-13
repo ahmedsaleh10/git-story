@@ -4,3 +4,5 @@ He was doing this for his village, for Init.
 
 Copy code
 Git, however, was confident in his abilities.
+
+The first challenge Git faced was understanding the concepts of Version Control.
